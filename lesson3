@@ -1,1 +1,18 @@
+print('Glo Academy')
+print('Glo', 'Academy')
+print('G', 'l', 'o', 'Aca', 'de', 'my')
+print('GL', 'o', 'Academy')
 
+print('Как тебя зовут?')
+name = input()
+print('Привет', name)
+
+print('Здравствуйте. Как вас зовут?')
+name = input()
+
+print('Как ваша фамилия?')
+familia = input()
+
+print('Как ваше отчество?')
+father = input()
+print('Здравствуйте', name, familia, father)
